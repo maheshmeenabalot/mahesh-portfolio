@@ -1,0 +1,13 @@
+th{
+    color: green;
+}
+td{
+    color: red;
+}
+body{
+    color: black;
+    background-color: darkgray;
+}
+p,pre{
+    color: blue;
+}

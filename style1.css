@@ -1,0 +1,13 @@
+h2{
+    color: green;
+}
+h3{
+    color: red;
+}
+body{
+    color: black;
+    background-color: darkgray;
+}
+p,pre{
+    color: blue;
+}
