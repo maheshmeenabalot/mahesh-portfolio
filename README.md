@@ -30,7 +30,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
      ```
      npm run dev
      ```
-   - Open your browser and visit http://localhost:3000 to view the portfolio.
+   - Open your browser and visit http://localhost:5173 to view the portfolio.
 
 3. **Build:**
    - To build the production-ready version:
