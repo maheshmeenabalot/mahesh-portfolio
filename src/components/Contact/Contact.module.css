@@ -1,0 +1,87 @@
+@import "../../vars.css";
+
+/* Define additional CSS variables for consistency */
+:root {
+  --font-size-h2: 80px;
+  --font-size-p: 40px;
+  --font-size-link: 30px;
+  --font-weight-bold: 700;
+  --font-weight-regular: 400;
+  --letter-spacing-h2: 4px;
+  --letter-spacing-p: 2px;
+  --letter-spacing-link: 1.5px;
+  --gap-large: 25px;
+  --gap-medium: 10px;
+  --gap-small: 23px;
+  --padding-container: 58px 10%;
+}
+
+.container {
+  color: var(--color-text);
+  margin-top: 120px;
+  background-color: var(--color-secondary);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100vw;
+  padding: var(--padding-container);
+  gap: var(--gap-medium);
+}
+
+.text h2 {
+  font-size: var(--font-size-h2);
+  font-weight: var(--font-weight-bold);
+  letter-spacing: var(--letter-spacing-h2);
+}
+
+.text p {
+  font-size: var(--font-size-p);
+  font-weight: var(--font-weight-regular);
+  letter-spacing: var(--letter-spacing-p);
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style: none;
+  gap: var(--gap-large);
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  gap: var(--gap-large);
+}
+
+.link a {
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: var(--font-size-link);
+  font-weight: var(--font-weight-regular);
+  letter-spacing: var(--letter-spacing-link);
+  transition: color 0.3s;
+}
+
+.link a:hover,
+.link a:focus {
+  color: var(--color-primary); /* Assuming var(--color-primary) is a defined variable for hover color */
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column;
+    gap: var(--gap-small);
+    padding: var(--gap-small); /* Adjust padding for smaller screens */
+  }
+
+  .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .links {
+    align-items: center;
+  }
+}

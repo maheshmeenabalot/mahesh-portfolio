@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Academic Management System (AMS)",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a comprehensive AMS for IIT Goa using a full-stack tech stack.",
+    "skills": ["SQL", "HTML", "CSS", "JavaScript", "Node.js", "React.js", "Docker"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/maheshmeenabalot/ams-project"
+  },
+  {
+    "title": "HomeBudget: Personal Finance Application",
+    "imageSrc": "projects/project.png",
+    "description": "Created a personal budgeting app to manage finances effectively.",
+    "skills": ["React", "React Router", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/maheshmeenabalot/homebudget"
+  },
+  {
+    "title": "Optimal Risk to Return Market Portfolio Generation",
+    "imageSrc": "projects/project.png",
+    "description": "Generated diversified portfolios using PyPortfolioOpt and backtested them.",
+    "skills": ["Python", "PyPortfolioOpt", "Data Analysis"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/maheshmeenabalot/portfolio-optimization"
+  },
+  {
+    "title": "Artificial Intelligence-Based Pac-Man",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an AI-based Pac-Man game with efficient component structuring.",
+    "skills": ["React", "JavaScript", "AI"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/maheshmeenabalot/ai-pacman"
+  }
+]
