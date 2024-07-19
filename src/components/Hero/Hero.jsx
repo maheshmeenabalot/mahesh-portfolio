@@ -5,9 +5,7 @@ import styles from './Hero.module.css' ;
 export const Hero = () => {
     return <section className={styles.container}>
         <div className={styles.content}>
-            <h1 className={styles.title}> 
-                Hello, I'm Mahesh Meena
-            </h1>
+           <h1 style={{ color: 'black', fontSize: '2em' }}>Hello, I'm Mahesh Meena</h1>
             <p className={styles.discription}>I'm Mahesh Meena, a Computer Science and Engineering graduate from IIT Goa.
                 With a strong foundation in both front-end and back-end web development, I have interned at TIMEMARKS EXAMINER PRIVATE LIMITED,
                  where I contributed to developing an e-commerce platform using Web3.0 technologies. 
