@@ -1,22 +1,26 @@
 [
   {
-    "role": "Full Stack Web Developer",
+    "role": "Senior Software Developer",
+    "organisation": "DCB Bank",
+    "startDate": "Aug, 2024",
+    "endDate": "Jan, 2025",
+    "experiences": [
+      "Revamped SME applications using React, Spring Boot, and Oracle SQL.",
+      "Implemented Spring Security for robust authentication and authorization.",
+      "Collaborated with fintech and financial teams to optimize back-end services."
+    ],
+    "imageSrc": "history/dcb.jpg"
+  },
+  {
+    "role": "Full Stack Web Developer Intern",
     "organisation": "TIMEMARKS EXAMINER PRIVATE LIMITED",
     "startDate": "June, 2023",
     "endDate": "Nov, 2023",
     "experiences": [
-      "Developed an e-commerce site; designed UI/UX; worked with HTML, CSS, JavaScript, React.js, Node.js, MySQL, Docker."
+      "Built a Web3.0-based e-commerce platform with a responsive UI using Bootstrap.",
+      "Worked with HTML, CSS, JavaScript, React.js, Node.js, SQL, and Docker.",
+      "Integrated Google Location API and improved cross-device accessibility."
     ],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "Production Head",
-    "organisation": "Cultrang",
-    "startDate": "2022",
-    "endDate": "2023",
-    "experiences": [
-      "Led production for Cultrang’23, a pan-India cultural festival at IIT Goa."
-    ],
-    "imageSrc": "history/microsoft.png"
+    "imageSrc": "history/timemarks.png"
   }
 ]

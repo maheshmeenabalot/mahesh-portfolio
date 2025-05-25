@@ -8,11 +8,9 @@ export const Hero = () => {
            <h1 className={styles.title}> 
                     Hello, I'm Mahesh Meena
            </h1>
-            <p className={styles.discription}>I'm Mahesh Meena, a Computer Science and Engineering graduate from IIT Goa.
-                With a strong foundation in both front-end and back-end web development, I have interned at TIMEMARKS EXAMINER PRIVATE LIMITED,
-                 where I contributed to developing an e-commerce platform using Web3.0 technologies. 
-                 I am proficient in SQL, HTML, CSS, JavaScript, React.js, Node.js, MySQL, Docker, 
-                 and have a keen interest in financial markets and trading.
+            <p className={styles.discription}>I'm Mahesh Meena, a Computer Science and Engineering undergraduate from IIT Goa. I have experience in full-stack development, having worked as a Senior Software Developer at DCB Bank and interned at Timemarks Examiner, where I helped build a Web3.0 e-commerce platform. I'm skilled in React.js, Node.js, Spring Boot, SQL, Docker, and more. I’ve also built projects like an Academic Management System and a real-time chat app. I have a strong interest in financial markets and trading.
+
+
             </p>
             <a href='mailto:immaheshbalot@gmail.com' className={styles.contactBtn}>Contact Me</a>
         </div>

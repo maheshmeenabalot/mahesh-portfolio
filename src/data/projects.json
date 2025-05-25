@@ -2,33 +2,49 @@
   {
     "title": "Academic Management System (AMS)",
     "imageSrc": "projects/project.png",
-    "description": "Developed a comprehensive AMS for IIT Goa using a full-stack tech stack.",
+    "description": "Built a full-stack AMS for IIT Goa to manage academics, marksheets, and course registrations.",
     "skills": ["SQL", "HTML", "CSS", "JavaScript", "Node.js", "React.js", "Docker"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/maheshmeenabalot/ams-project"
+    "source": "https://github.com/maheshmeenabalot/Academic-DataBase-Management"
+  },
+  {
+    "title": "Messaging and Conversation Web App",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a real-time chat app using MERN stack and WebSocket for live communication.",
+    "skills": ["MongoDB", "Express.js", "React", "Node.js", "WebSocket", "JWT", "bcryptjs"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/maheshmeenabalot/Chat-App"
   },
   {
     "title": "HomeBudget: Personal Finance Application",
     "imageSrc": "projects/project.png",
-    "description": "Created a personal budgeting app to manage finances effectively.",
-    "skills": ["React", "React Router", "JavaScript"],
+    "description": "Created a budget tracking app with React Router and toast notifications for real-time feedback.",
+    "skills": ["React", "React Router", "JavaScript", "Toastify"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/maheshmeenabalot/homebudget"
+    "source": "https://github.com/maheshmeenabalot/React-Router-Budget-App"
   },
   {
-    "title": "Optimal Risk to Return Market Portfolio Generation",
+    "title": "Health Challenge Tracker",
     "imageSrc": "projects/project.png",
-    "description": "Generated diversified portfolios using PyPortfolioOpt and backtested them.",
-    "skills": ["Python", "PyPortfolioOpt", "Data Analysis"],
+    "description": "Built an Angular SPA to track health challenges with filtering, pagination, and local storage.",
+    "skills": ["Angular 14+", "Tailwind CSS", "Angular Material"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/maheshmeenabalot/portfolio-optimization"
+    "source": "https://github.com/maheshmeenabalot/workout-tracker"
+  },
+  {
+    "title": "Document Summarization Pipeline (RAG Model)",
+    "imageSrc": "projects/project.png",
+    "description": "Summarizes documents using the RAG model by integrating retrieval and generation with Python and Transformers.",
+    "skills": ["Python", "PyTorch", "Transformers", "Flask", "Streamlit", "Faiss"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/maheshmeenabalot/Document-Summarization-Pipeline-Integrating-RAG-Model"
   },
   {
     "title": "Artificial Intelligence-Based Pac-Man",
     "imageSrc": "projects/project.png",
-    "description": "Developed an AI-based Pac-Man game with efficient component structuring.",
-    "skills": ["React", "JavaScript", "AI"],
+    "description": "Created an AI-based Pac-Man agent using search algorithms and reinforcement learning techniques.",
+    "skills": ["Python", "AI", "Reinforcement Learning", "Search Algorithms", "Q-Learning"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/maheshmeenabalot/ai-pacman"
+    "source": "no surce "  
   }
 ]
